@@ -9,7 +9,7 @@ This website contains the documentation for the LunchHitch project
 
 *   ### Users
     
-    [User Guide](/src/user/index.html)
+    [User Guide](/user)
 *   ### Developers
     
-    [Developers Guide](/src/developer/index.html)
+    [Developers Guide](/developer)
